@@ -100,8 +100,8 @@ hr.bot{
     height: 200px;
     width: 200px;
     margin-top: 30px;
-    margin-bottom: 25px;
-    margin-left: 650px; 
+    margin-bottom: 28px;
+    margin-left: 43.5%; 
 }
 .pic:hover {
     transform: scale(1.05); 
