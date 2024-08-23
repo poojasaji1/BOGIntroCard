@@ -96,12 +96,15 @@ hr.bot{
 
 .pic {
     transition: all 300ms ease;
+    margin: 0 auto; 
+    overflow: hidden; 
     display: flex;
-    height: 200px;
-    width: 200px;
+    width: 50%; 
+    max-width: 200px; 
+    aspect-ratio: 1; 
+    text-align: center;
     margin-top: 30px;
     margin-bottom: 28px;
-    margin-left: 43.5%; 
 }
 .pic:hover {
     transform: scale(1.05); 
